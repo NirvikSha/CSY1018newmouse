@@ -1,0 +1,91 @@
+body{
+background-image: url(../images/nirviksharma2.jpg) ;
+/*background-image: image( url(../images/nirviksharma2.jpg) );*/
+background-size: cover;
+font-family: sans-serif;
+}
+.page{}
+
+
+header{
+  /*background-color: transparent;*/
+  width:auto;
+  height:100px;
+
+  margin-left: 4px;
+  marfin-right:4px;
+  padding: 10px;
+}
+.headernav{
+  width:auto;
+  height:auto;
+  float: right;
+  flex-direction: row;
+  padding-top: 5%;
+  margin-right: 0px;
+}
+.headernav ul li {
+  list-style: none;
+
+}
+.headernav ul li a{
+  border:2px black solid ;
+  border-radius: 10%;
+  background-color: red;
+  padding:20px;
+  text-decoration: none;
+  color: white;
+
+}
+.headernav ul li a:hover{
+  background-color: green;
+}
+.hometext1{
+  /*background-color: lightblue;*/
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  font-size: 3.5em;
+  color:white;
+  margin-bottom: 0px;
+  padding-bottom:0px;
+}
+.hometext2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /*background-color:blue;*/
+  padding: 0%;
+  margin-top: 0px;
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  font-size: 3em;
+  color:white;
+  font-family: 'Hammersmith One', sans-serif;
+}
+.hometext3{
+  font-family: 'Baloo Bhaina', cursive;
+  color:white;
+  /*background-color: lightgreen;*/
+  text-align: center;
+  font-size: 3em;
+  padding: 0%;
+  margin-top: 0px;
+}
+.content1{
+  
+  background-color:#4d0066;
+  margin: auto;
+  width:auto;
+  height:500px;
+}
+.content1 img{
+  margin-top: 0px;
+  margin: auto;
+  display: block;
+  width:300px;
+  height:300px;
+  border-radius:100%
+}
+.footer1{
+  text-align: center;
+  color: white;
+}
