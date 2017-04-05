@@ -76,6 +76,7 @@ header{
   margin: auto;
   width:auto;
   height:500px;
+    padding:1%;
 }
 .content1 img{
   margin-top: 0px;
@@ -87,6 +88,7 @@ header{
 }
 form{
   color:white;
+
 }
 .footer1{
   text-align: center;
