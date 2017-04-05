@@ -71,11 +71,13 @@ header{
   margin-top: 0px;
 }
 .content1{
-  
+
+
   background-color:#4d0066;
   margin: auto;
   width:auto;
   height:500px;
+  color:white;
 }
 .content1 img{
   margin-top: 0px;
