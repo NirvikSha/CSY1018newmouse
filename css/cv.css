@@ -35,6 +35,7 @@ header{
   padding:20px;
   text-decoration: none;
   color: white;
+  /*It shows the color of the paragraphs*/
 
 }
 .headernav ul li a:hover{

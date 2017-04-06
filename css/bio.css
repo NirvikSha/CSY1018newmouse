@@ -74,11 +74,13 @@ header{
 
 
   background-color:#4d0066;
+  /*It is used to set the background images of the element*/
   margin: auto;
   width:auto;
   height:500px;
   color:white;
     padding:1%;
+    /*It is used to generate space in the content*/
 
 }
 .content1 img{
@@ -86,7 +88,10 @@ header{
   margin: auto;
   display: block;
   width:300px;
+  /*It is used to set the widhth of the element*/
   height:300px;
+  /*It is used to set the height of the element*/
+  It is used to
   border-radius:100%
 }
 .footer1{
